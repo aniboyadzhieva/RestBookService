@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\RestBookService\RestBookService\obj\Debug\netcoreapp3.0\RestBookService.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RestBookService\RestBookService\obj\Debug\netcoreapp3.0\staticwebassets\RestBookService.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\RestBookService\RestBookService\obj\Debug\netcoreapp3.0\staticwebassets\RestBookService.StaticWebAssets.xml
+C:\Users\User\source\repos\RestBookService\RestBookService\obj\Debug\netcoreapp3.0\RestBookService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\RestBookService\RestBookService\obj\Debug\netcoreapp3.0\RestBookService.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RestBookService\RestBookService\obj\Debug\netcoreapp3.0\RestBookService.AssemblyInfo.cs
